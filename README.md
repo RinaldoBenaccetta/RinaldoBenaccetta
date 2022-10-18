@@ -2,7 +2,9 @@
 
 ## 👋 Hello, I am a curious, self-taught, explorer, experimenter, limit tester web developer.
 
-I maintain an open source NPM project, feel free to explore or use it. You coan find it [on NPM](https://www.npmjs.com/package/anah) and [on GitHub](https://github.com/RinaldoBenaccetta/anah)
+You can visit my website here(in french) : [rinaldo-dev.com](https://rinaldo-dev.com)
+
+I maintain an open source NPM project, feel free to explore or use it. You can find it [on NPM](https://www.npmjs.com/package/anah) and [on GitHub](https://github.com/RinaldoBenaccetta/anah)
 
 The rest of time, I play with JS, CSS, HTML, PHP,...
 
