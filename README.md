@@ -6,7 +6,7 @@ You can visit my website here(in french) : [rinaldo-dev.com](https://rinaldo-dev
 
 I maintain an open source NPM project, feel free to explore or use it. You can find it [on NPM](https://www.npmjs.com/package/anah) and [on GitHub](https://github.com/RinaldoBenaccetta/anah)
 
-The rest of time, I play with JS, CSS, HTML, PHP,...
+I am currently learning React, MongoDB and Node.js.
 
 ## Here is some of my projetcs :
 
