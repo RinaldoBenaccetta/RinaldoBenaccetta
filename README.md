@@ -4,7 +4,7 @@
 
 You can visit my website here(in french) : [rinaldo-dev.com](https://rinaldo-dev.com)
 
-I maintain an open source NPM project, feel free to explore or use it. You can find it [on NPM](https://www.npmjs.com/package/anah) and [on GitHub](https://github.com/RinaldoBenaccetta/anah)
+I maintain Anah, an open source NPM project, feel free to explore or use it. You can find it [on NPM](https://www.npmjs.com/package/anah) and [on GitHub](https://github.com/RinaldoBenaccetta/anah)
 
 I am currently learning React, MongoDB and Node.js.
 
